@@ -23,9 +23,11 @@ The live page is found at
 ## Demo
 
 The webpage appears as the following:
-![image](./Develop/assets/images/siteimage.png)
+![image](./assets/images/siteimage.png)
 
 ## Credits
+
+Sagiri Ikenaga
 
 
 

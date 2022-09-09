@@ -18,7 +18,7 @@ The website and code can be used to understand the importance of the changes and
 
 ## Deployed Application
 
-The live page is found at 
+The live page is found at https://sagirikenaga.github.io/mod1-challenge/. 
 
 ## Demo
 
